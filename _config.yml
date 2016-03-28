@@ -1,0 +1,28 @@
+name: "Memories Can't Wait"
+favicon: null
+layout_spectrum: 0.16968127712607384
+typography_spectrum: 0.34847666951827705
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8700234205462039
+  lightness: 0.3829470977652818
+  saturation: 0.5496673530433327
+  rhythmicContrast: 0.3327100947499275
+purpose: []
