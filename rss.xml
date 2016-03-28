@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Memories Can't Wait]]></title>
         <description><![CDATA[Memories Can't Wait]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/memories-can-t-wait/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 04:46:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 04:56:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/memories-can-t-wait/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>After murdering her friend, Kat celebrates with a party where increasingly bizarre and inexplicable events drive her to discover whether she's gone insane or something more sinister is at work.</p>]]></description>
+            <link>https://thegrid.ai/memories-can-t-wait/ebd480aa-ece0-43ac-8d5e-d0d166ad311a/index.html</link>
+            <guid isPermaLink="false">ebd480aa-ece0-43ac-8d5e-d0d166ad311a</guid>
+            <pubDate>Mon, 28 Mar 2016 04:56:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1535c531-8ea5-4a95-8923-827d7228679f.jpg">]]></description>
-            <link>undefineda5577563-87ba-49e3-b160-046da43e41ce/index.html</link>
+            <link>https://thegrid.ai/memories-can-t-wait/a5577563-87ba-49e3-b160-046da43e41ce/index.html</link>
             <guid isPermaLink="false">a5577563-87ba-49e3-b160-046da43e41ce</guid>
             <pubDate>Mon, 28 Mar 2016 04:45:59 GMT</pubDate>
         </item>
